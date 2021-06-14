@@ -1,0 +1,24 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API POST",
+      "content": "content content content"
+    },
+    {
+      "title": "Gehs",
+      "content": "Ususjsjs",
+      "id": 2
+    },
+    {
+      "title": "sda",
+      "content": "sadasdasd",
+      "id": 3
+    },
+    {
+      "title": "dortaaaaaaa",
+      "content": "asddassdaasdaaaaaaaaaaaa",
+      "id": 4
+    }
+  ]
+}
